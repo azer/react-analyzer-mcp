@@ -2,7 +2,7 @@
 
 Analyze & generate docs for React code using the Model Context Protocol. Based on [react-analyzer](https://github.com/azer/react-analyzer) library.
 
-[![mitte c](https://github.com/user-attachments/assets/615f43d7-9b81-4480-9a2a-773819223ddb)](https://x.com/azerkoculu/status/1910071779457900866)
+[<img src="https://github.com/user-attachments/assets/615f43d7-9b81-4480-9a2a-773819223ddb" width="500" />](https://x.com/azerkoculu/status/1910071779457900866)
 
 ## What it does
 
